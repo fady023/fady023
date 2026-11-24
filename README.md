@@ -1,4 +1,4 @@
-# Fady
+# Fady Magdy Soliman
 
 Full-Stack Developer working with **Laravel** and **React**.
 
@@ -12,5 +12,5 @@ PHP · Laravel · JavaScript · React · Redux · HTML · CSS
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/fady-soliman-3b037b286/
-- Email: fady.msoliman3@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/fady-soliman-3b037b286/)
+- [Email](mailto:fady.msoliman3@gmail.com)
