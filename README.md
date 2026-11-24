@@ -1,16 +1,15 @@
-## Hi there 👋
+# أهلاً، أنا Fady 👋
 
-<!--
-**fady023/fady023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer بشتغل بـ **Laravel** و **React**.
 
-Here are some ideas to get you started:
+## 🛠 التقنيات
+PHP · Laravel · JavaScript · React · Redux · HTML · CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 مشاريعي
+- [Portfolio](https://github.com/fady023/fady023.github.io)
+- [Restaurant](https://github.com/fady023/restaurant)
+- [Names Real Estate](https://github.com/fady023/names-realestate)
+
+## 📫 تواصل معايا
+- LinkedIn: https://www.linkedin.com/in/fady-soliman-3b037b286/
+- Email: fady.msoliman3@gmail.com
