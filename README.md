@@ -3,7 +3,7 @@
 WordPress&Full-Stack Developer working with **Laravel** and **React**.
 
 ## 🛠 Tech Stack
-PHP · Laravel · JavaScript · React · Redux · HTML · CSS . wordpress
+PHP · Laravel · JavaScript · React · Redux · HTML · CSS . Bootstrap. jQuery. Figma . WordPress
 
 ## 🚀 Projects
 - [Portfolio](https://github.com/fady023/fady023.github.io)
