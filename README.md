@@ -1,9 +1,9 @@
 # Fady Magdy Soliman
 
-Full-Stack Developer working with **Laravel** and **React**.
+WordPress&Full-Stack Developer working with **Laravel** and **React**.
 
 ## 🛠 Tech Stack
-PHP · Laravel · JavaScript · React · Redux · HTML · CSS
+PHP · Laravel · JavaScript · React · Redux · HTML · CSS . wordpress
 
 ## 🚀 Projects
 - [Portfolio](https://github.com/fady023/fady023.github.io)
